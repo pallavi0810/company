@@ -1,4 +1,4 @@
-# represents the financial situation of a department
+# base class for department
 class Org::BaseDepartment
   
   def remaining_cash
