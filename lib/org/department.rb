@@ -1,8 +1,9 @@
 # represents the financial situation of a department
 class Org::Department
-
-  def initialize(department_balance)
+  
+  def initialize(id, department_balance)
     @department_balance = department_balance
+    @department_id = id
   end
 
   def get_remaining_cash
@@ -11,5 +12,10 @@ class Org::Department
 
   def allocate_cash(cash_to_add)
     @department_balance += cash_to_add
-  end 
+  end
+
+  def get_department_id
+    @department_id
+  end
+   
 end
