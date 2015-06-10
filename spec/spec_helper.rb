@@ -1,3 +1,3 @@
 require 'simplecov'
 SimpleCov.start
-require_relative '../lib/department'
+require_relative '../lib/org'

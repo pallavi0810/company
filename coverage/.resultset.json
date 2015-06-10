@@ -1,7 +1,13 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/pallavideshmukh/rubyclass/company/lib/department.rb": [
+      "/Users/pallavideshmukh/rubyclass/org/lib/org.rb": [
+        1,
+        null,
+        null,
+        1
+      ],
+      "/Users/pallavideshmukh/rubyclass/org/lib/org/department.rb": [
         null,
         1,
         null,
@@ -19,6 +25,6 @@
         null
       ]
     },
-    "timestamp": 1433931207
+    "timestamp": 1433932289
   }
 }

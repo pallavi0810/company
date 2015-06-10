@@ -1,5 +1,5 @@
 # represents the financial situation of a department
-class Department
+class Org::Department
 
   def initialize(department_balance)
     @department_balance = department_balance
