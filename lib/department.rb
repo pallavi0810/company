@@ -10,6 +10,6 @@ class Department
   end
 
   def allocate_cash(cash_to_add)
-    @department_balance +=cash_to_add
+    @department_balance += cash_to_add
   end 
 end
