@@ -5,6 +5,7 @@
         1,
         null,
         null,
+        1,
         1
       ],
       "/Users/pallavideshmukh/rubyclass/org/lib/org/department.rb": [
@@ -12,19 +13,42 @@
         1,
         null,
         1,
+        3,
+        null,
+        null,
+        1,
         2,
         null,
         null,
         1,
         2,
         null,
+        null
+      ],
+      "/Users/pallavideshmukh/rubyclass/org/lib/org/manager.rb": [
+        null,
+        1,
         null,
         1,
         1,
         null,
         null
+      ],
+      "/Users/pallavideshmukh/rubyclass/org/spec/org/manager_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1433932289
+    "timestamp": 1433935821
   }
 }
